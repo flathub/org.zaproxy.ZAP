@@ -14,7 +14,8 @@
         "--share=network",
         "--env=JAVA_HOME=/app/jre",
         "--filesystem=xdg-download",
-        "--filesystem=xdg-documents"
+        "--filesystem=xdg-documents",
+        "--persist=.ZAP"
     ],
     "modules": [
         {
