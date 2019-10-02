@@ -34,6 +34,7 @@
   </screenshots>
   <url type="homepage">https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project</url>
   <releases>
+    <release version="1.0.1" date="2019-10-02"/>
     <release version="1.0.0" date="2019-09-25" />
   </releases>
   <content_rating type="oars-1.1" />
