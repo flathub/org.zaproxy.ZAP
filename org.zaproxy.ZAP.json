@@ -40,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.8.1/ZAP_2.8.1_Linux.tar.gz",
-                    "sha256": "35fb3924d68bd8d201732a291b888c7f65e15c8e357458882550486d40102431"
+                    "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.9.0/ZAP_2.9.0_Linux.tar.gz",
+                    "sha256": "4c72ba9d9ba60f58dc7eb26c5818cf98a38ba58b9bf2313aadd69832d85e9cb1"
                 },
                 {
                     "type": "file",
