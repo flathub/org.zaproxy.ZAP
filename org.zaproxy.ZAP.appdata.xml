@@ -34,7 +34,7 @@
   </screenshots>
   <url type="homepage">https://www.zaproxy.org</url>
   <releases>
-    <release version="2.9.0" date="2020-01-18" />
+    <release version="2.10.0" date="2020-12-17" />
   </releases>
   <content_rating type="oars-1.1" />
 </component>
