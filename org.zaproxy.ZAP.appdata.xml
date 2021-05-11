@@ -32,6 +32,7 @@
       https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3search.jpg
     </screenshot>
   </screenshots>
+  <developer_name>The ZAP Development Team</developer_name>
   <url type="homepage">https://www.zaproxy.org</url>
   <releases>
     <release version="2.10.0" date="2020-12-17" />
