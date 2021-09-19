@@ -1,7 +1,7 @@
 {
     "id": "org.zaproxy.ZAP",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "19.08",
+    "runtime-version": "21.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "zap",
     "separate-locales": false,
