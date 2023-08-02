@@ -5,12 +5,12 @@
   <project_license>Apache-2.0</project_license>
   <name>ZAP</name>
   <summary>
-    The OWASP Zed Attack Proxy (ZAP) is a popular free security 
+    The Zed Attack Proxy (ZAP) is a popular free security 
     tool.
   </summary>
   <description>
     <p>
-      The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular 
+      The Zed Attack Proxy (ZAP) is one of the world’s most popular 
       free security tools and is actively maintained by a dedicated 
       international team of volunteers. It can help you automatically find 
       security vulnerabilities in your web applications while you are developing 
