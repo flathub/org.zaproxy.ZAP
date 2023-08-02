@@ -34,10 +34,10 @@
                 "install -Dm644 org.zaproxy.ZAP.png /app/share/icons/hicolor/128x128/apps/org.zaproxy.ZAP.png",
                 "install -Dm644 org.zaproxy.ZAP.desktop /app/share/applications/org.zaproxy.ZAP.desktop",
                 "install -Dm644 org.zaproxy.ZAP.appdata.xml /app/share/appdata/org.zaproxy.ZAP.appdata.xml",
-                "mkdir /app/share/owasp-zap",
+                "mkdir /app/share/zap",
                 "rm org.zaproxy.ZAP.png org.zaproxy.ZAP.desktop org.zaproxy.ZAP.appdata.xml",
-                "cp -r ./* /app/share/owasp-zap",
-                "ln -s /app/share/owasp-zap/zap.sh /app/bin/zap"
+                "cp -r ./* /app/share/zap",
+                "ln -s /app/share/zap/zap.sh /app/bin/zap"
             ],
             "sources": [
                 {
