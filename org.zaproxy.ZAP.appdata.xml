@@ -4,10 +4,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>Apache-2.0</project_license>
   <name>ZAP</name>
-  <summary>
-    The Zed Attack Proxy (ZAP) is a popular free security 
-    tool.
-  </summary>
+  <summary>A popular free security tool</summary>
   <description>
     <p>
       The Zed Attack Proxy (ZAP) is one of the world’s most popular 
@@ -18,24 +15,29 @@
       pentesters to use for manual security testing.
     </p>
   </description>
+  <launchable type="desktop-id">org.zaproxy.ZAP.desktop</launchable>
   <screenshots>
     <screenshot type="default">
-      https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3alertshelp.jpg
+      <image>https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3alertshelp.jpg</image>
+      <caption>ZAP GUI</caption>
     </screenshot>
     <screenshot>
-      https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3fuzz.jpg
+      <image>https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3fuzz.jpg</image>
+      <caption>ZAP Fuzzer</caption>
     </screenshot>
     <screenshot>
-      https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3historyfilter.jpg
+      <image>https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3historyfilter.jpg</image>
+      <caption>ZAP History Filter</caption>
     </screenshot>
     <screenshot>
-      https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3search.jpg
+      <image>https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/zap1-3search.jpg</image>
+      <caption>ZAP Search</caption>
     </screenshot>
   </screenshots>
   <developer_name>The ZAP Development Team</developer_name>
   <url type="homepage">https://www.zaproxy.org</url>
   <releases>
-    <release version="2.14.0" date="2023-10-12" />
+    <release version="2.15.0" date="2024-05-07" />
   </releases>
   <content_rating type="oars-1.1" />
 </component>
