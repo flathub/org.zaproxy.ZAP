@@ -7,7 +7,7 @@
   <summary>A popular free security tool</summary>
   <description>
     <p>
-      The Zed Attack Proxy (ZAP) is one of the world’s most popular 
+      The Zed Attack Proxy (ZAP) by Checkmarx is one of the world’s most popular 
       free security tools and is actively maintained by a dedicated 
       international team of volunteers. It can help you automatically find 
       security vulnerabilities in your web applications while you are developing 
@@ -37,7 +37,7 @@
   <developer_name>The ZAP Development Team</developer_name>
   <url type="homepage">https://www.zaproxy.org</url>
   <releases>
-    <release version="2.15.0" date="2024-05-07" />
+    <release version="2.16.0" date="2025-01-10" />
   </releases>
   <content_rating type="oars-1.1" />
 </component>

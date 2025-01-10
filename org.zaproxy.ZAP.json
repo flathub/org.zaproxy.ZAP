@@ -6,7 +6,7 @@
     "command": "zap",
     "separate-locales": false,
     "sdk-extensions": [
-        "org.freedesktop.Sdk.Extension.openjdk11" 
+        "org.freedesktop.Sdk.Extension.openjdk17" 
     ],
     "finish-args": [
         "--share=ipc",
@@ -23,7 +23,7 @@
         {
             "name": "openjdk",
             "buildsystem": "simple",
-            "build-commands": [ "/usr/lib/sdk/openjdk11/install.sh" ]
+            "build-commands": [ "/usr/lib/sdk/openjdk17/install.sh" ]
         },
         {
             "name": "zap",
@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.15.0/ZAP_2.15.0_Linux.tar.gz",
-                    "sha256": "6410e196baab458a9204e29aafb5745fca003a2a6c0386f2c6e5c04b67621fa7"
+                    "url": "https://github.com/zaproxy/zaproxy/releases/download/v2.16.0/ZAP_2.16.0_Linux.tar.gz",
+                    "sha256": "a0779509e702ec53d41074eaa0ce41f2a964a822aa5be0380255a482e2e7fe8d"
                 },
                 {
                     "type": "file",
