@@ -37,7 +37,7 @@
   <developer_name>The ZAP Development Team</developer_name>
   <url type="homepage">https://www.zaproxy.org</url>
   <releases>
-    <release version="2.16.1" date="2025-03-25" />
+    <release version="2.17.0" date="2025-12-15" />
   </releases>
   <content_rating type="oars-1.1" />
 </component>
