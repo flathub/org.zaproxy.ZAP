@@ -1,0 +1,3 @@
+# flatpak things
+.flatpak-builder/
+_build/
